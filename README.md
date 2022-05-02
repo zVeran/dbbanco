@@ -1,5 +1,5 @@
 # dbbanco
-exercuciis 
+exercício 02/05
 
 create database dbBANCO; 
 use dbBANCO;  
