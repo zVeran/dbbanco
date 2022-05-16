@@ -87,7 +87,5 @@ select numeroagencia, endereco from tbagencia;
 select * from tbcliente where sexo = 'M'; 
 
 
-
-
 select * from tbbanco;
 select * from tbagencia;
